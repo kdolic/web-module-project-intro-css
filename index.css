@@ -29,7 +29,7 @@ nav {
 nav a {
     margin: 5%;
     font-size: 1.1rem;
-    border-radius: 8px;
+    border-radius: 20px;
     padding: 1%; 
     text-decoration: none;
     text-align: center;
@@ -54,7 +54,6 @@ nav a {
 .top-section {
     display: inline-block;
     padding: 3%;
-
 }
 
 .image  {
@@ -141,4 +140,5 @@ footer div {
 
 footer {
     margin: .2% auto;
+    background: #F9E7DC;
 }
